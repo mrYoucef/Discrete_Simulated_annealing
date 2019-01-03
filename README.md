@@ -37,6 +37,6 @@ in this project we transformed this algorithem to a function on matlab called Si
 all the scripts are well explained in the comments
 
 
-final result after lunching main script for testing ;
+final result after lunching main script for testing are in the file test ;
 
 
