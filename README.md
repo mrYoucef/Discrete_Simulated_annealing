@@ -19,7 +19,7 @@ https://mathworks.com/help/gads/what-is-simulated-annealing.html
 
 we chose to implement this algorihtem using matlab 
 
-The problem is to find the optimal configuration of connection between different blocks, This is a difficult optimization problem requiring the use of heath to find an approximate solution. During a real application the calculation times are very
+The problem is to find the optimal configuration of connection between different blocks, This is a difficult optimization problem requiring the use of heat to find an approximate solution. During a real application the calculation times are very
 high given the large number of items to be processed.
 In our case the blocks are arranged in a regular way on a square grid.
 
